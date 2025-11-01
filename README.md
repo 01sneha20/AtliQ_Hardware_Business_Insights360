@@ -88,7 +88,7 @@ The Power BI dashboard consists of six pages, each targeting a specific business
    
 3. *Sales*: Customer contributions, gross margin, and sales trends. 
 
-   ![Sales View](https://github.com/01sneha20/AtliQ_Hardware_Business_Insights360/blob/main/Sales%20View.pdf)
+   ![Sales View](https://github.com/01sneha20/AtliQ_Hardware_Business_Insights360/blob/main/Sales%20View.png)
 
  
 4. *Marketing*: Segment-wise performance and profitability.  
