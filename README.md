@@ -5,7 +5,7 @@
 *Subtitle*: Empowering Business Decisions with Power BI  
 *Author*: Sneha Attri  
 *Date*: October, 2025  
-*Live Dashboard Link*: [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWU1YzBjY2QtNmZkOS00ZTM2LWE5NjktMDE2YTc0NTdkMTM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=64b3b86d08c0a7115e08)
+*Live Dashboard Link*: [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2UwNzIwZWItNTA1ZS00OWNhLTgzZDEtMTZiZTAxYzYwZmVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=64b3b86d08c0a7115e08)
 *Email Id*: [01sneha20@gmail.com](mailto:01sneha20@gmail.com)
 *LinkedIn*:[LinkedIn Profile](https://www.linkedin.com/in/sneha-attri-b3130a326)
 
